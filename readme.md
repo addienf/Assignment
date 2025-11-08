@@ -30,7 +30,6 @@ Dashboard ini memiliki dua halaman utama:
   - Top 10 Produk Terlaris.
   - Tren Penjualan Bulanan.
 - **Filter interaktif berdasarkan Negara.**
-- Tombol **Reset Filter** untuk menampilkan semua data kembali.
 
 ### 🔹 2. Analisis RFM
 
@@ -38,7 +37,6 @@ Dashboard ini memiliki dua halaman utama:
 - Jumlah pelanggan per **Segment RFM**.
 - Rata-rata nilai RFM per segment.
 - **Filter interaktif berdasarkan Segment.**
-- Tombol **Reset Filter Segment.**
 
 ---
 
