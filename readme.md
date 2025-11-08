@@ -42,7 +42,7 @@ Dashboard ini memiliki dua halaman utama:
 
 ---
 
-### 1️⃣ Pastikan Python Sudah Terinstal
+### Instalasi
 
 Periksa versi Python Anda:
 
@@ -50,27 +50,33 @@ Periksa versi Python Anda:
 python --version
 ```
 
-```bash
-git clone https://github.com/username/nama-repo.git
-cd nama-repo
-```
+Import Repositorinya:
 
 ```bash
-python -m venv .venv
+git clone https://github.com/addienf/Assignment.git
+cd main
 ```
 
-```bash
-.venv\Scripts\activate
-```
+Buat Environtment Untuk Library:
 
 ```bash
-source .venv/bin/activate
+python -m venv my_env
 ```
+
+Jalankan Scripts Library:
+
+```bash
+my_env\Scripts\activate
+```
+
+Install Dependency:
 
 ```bash
 pip install -r requirements.txt
 ```
 
+Jalankan Program:
+
 ```bash
-streamlit run app.py
+streamlit run assignment.py
 ```
